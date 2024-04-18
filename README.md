@@ -11,7 +11,7 @@ Proyek ini adalah sebuah kalkulator sederhana yang dibuat menggunakan Python. Ka
 
 ## Cara Penggunaan
 
-1. Jalankan file `calculator.py` di lingkungan Python.
+1. Jalankan file `kalkulator.py` di lingkungan Python.
 2. Masukkan bilangan pertama.
 3. Pilih operasi matematika yang diinginkan (penjumlahan, pengurangan, perkalian, atau pembagian).
 4. Masukkan bilangan kedua.
